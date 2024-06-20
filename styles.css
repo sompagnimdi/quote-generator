@@ -1,0 +1,36 @@
+.box {
+
+    border: 2px solid black;
+    box-sizing: 50px;
+    border-radius: 20px;
+    background-color: rgb(118, 135, 118);
+    margin-top: 80px, 0, 0, 200px;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+h1 {
+    align-items: center;
+    margin-left: 400px;
+}
+
+#button {
+
+    margin-left: 550px;
+    margin-top: 40px;
+    border-radius: 80px;
+    box-shadow: 40px solide black;
+    color: aliceblue;
+    font-size: 40px;
+    font-weight: bolder;
+    background-color: red;
+    font-size: 30px
+}
+
+#quote {
+
+    text-align: center;
+    margin-left: 400px;
+    font-size: medium;
+    color: rgb(237, 237, 228);
+}
